@@ -1,2 +1,2 @@
 # 41_CAD
-Placeholder CAD folder. In progress.
+CAD folder. Work in progress.
